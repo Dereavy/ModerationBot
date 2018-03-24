@@ -2,7 +2,7 @@
 ## Installation:
 
 ### Acquire a discord token as shown here:
-	https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
+	[How to get the bot token](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)
 
 ### Fill in the config.yml
 	- Bot prefix
@@ -12,7 +12,7 @@
 	- moderation log channel name (You should only set this once)
 
 ### Create the bot:
-	https://discordapp.com/developers/applications/
+	[Create the bot here](https://discordapp.com/developers/applications/)
     - Make it a bot user
     - Not public bot
 
@@ -35,7 +35,7 @@ When in the same folder as the index.js, run the bot with the command `node .`
 The bot should be running.
 
 ## Add the bot to your server as shown here:
-	https://github.com/jagrosh/MusicBot/wiki/Adding-Your-Bot-To-Your-Server
+	[Tutorial here](https://github.com/jagrosh/MusicBot/wiki/Adding-Your-Bot-To-Your-Server)
 
 ### Give administrative permissions to the bot
 
