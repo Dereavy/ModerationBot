@@ -19,10 +19,10 @@
 ### Finish Installation
 Open the folder preferably with Visual Studio Code Integrated terminal or git bash.
 In the opened terminal:
-	Make sure you have npm installed:
+    Make sure you have npm installed:
 	  - node -v
-	Install the required node modules:
-      - npm install --save request
+    Install the required node modules:
+      	  - npm install --save request
    	  - npm install --save discord.jsqzdq
   	  - npm install --save util
   	  - npm install --save fs
