@@ -20,13 +20,13 @@
 Open the folder preferably with Visual Studio Code Integrated terminal or git bash.
 In the opened terminal:
     Make sure you have npm installed:
-	  - node -v
+	- node -v
     Install the required node modules:
-      	  - npm install --save request
-   	  - npm install --save discord.jsqzdq
-  	  - npm install --save util
-  	  - npm install --save fs
-  	  - npm install --save path
+	- npm install --save request
+   	- npm install --save discord.js
+  	- npm install --save util
+  	- npm install --save fs
+  	- npm install --save path
 
 When in the same folder as the index.js, run the bot with the command `node .`
 The bot should be running.
