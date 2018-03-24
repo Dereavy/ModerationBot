@@ -18,7 +18,9 @@
 
 ### Finish Installation
 Open the folder preferably with Visual Studio Code Integrated terminal or git bash.
+
 In the opened terminal:
+
   Make sure you have npm installed:
   - node -v
   
