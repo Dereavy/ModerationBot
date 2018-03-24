@@ -1,0 +1,27 @@
+    
+    
+# * Bot command prefix:
+
+    prefix: "!"
+    
+# * ID of the owner of the server:
+
+    ownerID: ""
+
+# * Discord bot token: 
+
+    botToken: ""
+
+# * Server ID:
+
+    serverID: ""
+
+# Roles: Not used.
+# Can be used as (message.member.hasRole(config.moderatorRoleID)):     
+
+    moderatorRoleID: "" 
+
+# * Moderation log channel name:
+#   Bot will log activity to this channel.
+
+    modLogChannel: "moderation-log"
