@@ -44,8 +44,8 @@ The bot should be running.
 Let the bot setup it's channels on first launch and configure them as you wish, do not change the name.
 In any channel you can execute the following commands (default prefix: !):
 
-### Command: ! clear `<number> <userName>#<discriminator>`
+### Command: ` ! clear <number> <userName>#<discriminator>`
 	The bot will clear the <number> of past messages of that user.
 
-### Command: ! warn `<userName>#<discriminator> <reason>`
+### Command: ` ! warn <userName>#<discriminator> <reason>`
 	The bot will warn the user with the message that follows in it's reason.
