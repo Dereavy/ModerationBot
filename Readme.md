@@ -21,6 +21,7 @@ Open the folder preferably with Visual Studio Code Integrated terminal or git ba
 In the opened terminal:
   Make sure you have npm installed:
   - node -v
+  
   Install the required node modules:
   - npm install --save request
   - npm install --save discord.js
